@@ -1,5 +1,5 @@
-***HOME ASSIGNMENT***\
-**Grocery list(ordered)**\
+***HOME ASSIGNMENT**\
+**Grocery list(ordered)**
 1. eggs
 2. bread
 3. cereal
