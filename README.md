@@ -1,4 +1,4 @@
-***HOME ASSIGNMENT**\
+**HOME ASSIGNMENT**\
 **Grocery list(ordered)**
 1. eggs
 2. bread
