@@ -5,10 +5,10 @@
 3. cereal
 4. milk. 
 **Grocery list(unordered)**. 
-*eggs. 
-*bread. 
-*milk. 
-*cereal.
+1- eggs. 
+2- bread. 
+3- milk. 
+4- cereal.
 
 
 
